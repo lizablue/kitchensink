@@ -12,5 +12,14 @@ function sayHello() {
 
 sayHello();
 
+// you aren't old enough to view step 8 
+function checkAge(name, age) {
+    if(age < 21) {
+    alert('Sorry ' + name + ', you aren\'t old enough to view this page!');
+    }
+}
 
-
+checkAge('Charles', 21);
+checkAge('Abby', 27);
+checkAge('James', 18);
+checkAge('John', 17);
