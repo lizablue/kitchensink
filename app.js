@@ -23,3 +23,11 @@ checkAge('Charles', 21);
 checkAge('Abby', 27);
 checkAge('James', 18);
 checkAge('John', 17);
+
+// step 9 veggies
+let veggies = ['carrots', 'zucchini', 'baby corn', 'green peppers', 'potatoes'];
+
+for(var i = 0; i < veggies.length; i++) {
+    console.log(veggies[i]);
+}
+
