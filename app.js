@@ -5,9 +5,12 @@ let val = 5 + 4
 // sorry this song is going to be stuck in your head all day :)
 const unitedStates = '50 nifty United States from 13 original colonies'
 
-
+// hello step 7 
 function sayHello() {
-    console.log('Hello World ' + 'and ' + name + 'from the ' + unitedStates + '.');
-}
+    alert('Hello World ' + 'from the ' + unitedStates + '.');
+};
 
 sayHello();
+
+
+
